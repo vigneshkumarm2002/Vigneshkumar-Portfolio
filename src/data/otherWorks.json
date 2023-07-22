@@ -1,0 +1,50 @@
+[
+    {
+        "Title": "Los Angeles",
+        "Description": "Highly responsive site for Los Angeles mountains with climb schedule.",
+        "Skills": ["HTML", "CSS", "JavaScript"],
+        "Code": "https://github.com/vigneshkumarm2002/Los-Angeles",
+        "Website": "https://vigneshkumarm2002.github.io/Los-Angeles/",
+        "Image": "LosAngeles.png"
+    },
+    {
+        "Title": "Click Hit",
+        "Description": "The interactive website where users can click on a circle to launch arrows and hit them.",
+        "Skills": ["HTML", "CSS", "JavaScript", "Canvas"],
+        "Code": "https://github.com/vigneshkumarm2002/ArrowGame",
+        "Website": "https://vigneshkumarm2002.github.io/ArrowGame/",
+        "Image": "Arrow.png"
+    },
+    {
+        "Title": "Houing Layout",
+        "Description": "A website that recommends house based on facilities near by.",
+        "Skills": ["React","CSS","JavaScript"],
+        "Code": "https://github.com/vigneshkumarm2002/Housing-Layout",
+        "Website": "https://vigneshkumarm2002.github.io/Housing-Layout/",
+        "Image": "Housing.png"
+    },
+    {
+        "Title": "Gym Website",
+        "Description": "My first project: a gym website with full responsiveness.",
+        "Skills": ["HTML", "CSS"],
+        "Code": "https://github.com/vigneshkumarm2002/Gym-Site",
+        "Website": "https://vigneshkumarm2002.github.io/Gym-Site/",
+        "Image": "GymSite.png"
+    },
+    {
+        "Title": "Drawing Board",
+        "Description": "Drawing board created using HTML canvas",
+        "Skills": ["HTML", "CSS", "JavaScript", "Canvas"],
+        "Code": "https://github.com/vigneshkumarm2002/Drawing-Board",
+        "Website": "https://vigneshkumarm2002.github.io/Drawing-Board/",
+        "Image": "DrawBoard.png"
+    },
+    {
+        "Title": "NPM Site",
+        "Description": "A simple responsive static site for digital marketting company.",
+        "Skills": ["HTML","CSS"],
+        "Code": "https://github.com/vigneshkumarm2002/NPM-Landing-Page",
+        "Website": "https://vigneshkumarm2002.github.io/NPM-Landing-Page/",
+        "Image": "NPM.png"
+    }
+]

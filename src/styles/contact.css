@@ -1,0 +1,68 @@
+.contactContainer {
+    width: 900px;
+    height:100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+    padding: 100px 20px 150px 20px;
+    position: relative;
+  }
+  .contactContainer p{
+    color: var(--light-color);
+    width: 600px;
+    text-align: center;
+  
+    margin-top: 20px;
+    font-size: 18px;
+    line-height: 1.3;
+    font-weight: 400;
+    color: var(--light-color);
+
+backdrop-filter: blur(20px);
+-webkit-backdrop-filter: blur(20px);
+  }
+
+.copyRight{
+  text-align: center;
+  width: 70%;
+  color: var(--dimWhite-color);
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 12px;
+}
+.copyRight span{
+  color: var(--primary-color);
+}
+a{
+  color: inherit;
+  text-decoration: none;
+}
+
+  @media only screen and (max-width: 768px) {
+    .contactContainer {
+      width: 100%;
+      gap: 50px;
+      padding: 100px 0 150px 0;
+    }
+    .contactContainer p{
+      width: 500px;
+      margin-top: 20px;
+      font-size: 18px;
+    }
+  }
+
+  @media only screen and (max-width: 550px) { 
+    
+    .contactContainer p{
+      width: 100%;
+      margin-top: 20px;
+      font-size: 16px;
+    }
+    .copyRight{
+      width: 90%;
+      font-size: 10px;
+    }
+  }
