@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Vigneshkumar-Portfolio/static/css/main.8d87bf90.css",
-    "main.js": "/Vigneshkumar-Portfolio/static/js/main.07d090a4.js",
+    "main.css": "/Vigneshkumar-Portfolio/static/css/main.40ab97dc.css",
+    "main.js": "/Vigneshkumar-Portfolio/static/js/main.33c18886.js",
     "static/media/LosAngeles.png": "/Vigneshkumar-Portfolio/static/media/LosAngeles.e0baeb93015109d3b543.png",
-    "static/media/AvatarFull.png": "/Vigneshkumar-Portfolio/static/media/AvatarFull.659996341e31e78a917a.png",
-    "static/media/avatar.png": "/Vigneshkumar-Portfolio/static/media/avatar.12a848b6d16a1f35c874.png",
     "static/media/DrawBoard.png": "/Vigneshkumar-Portfolio/static/media/DrawBoard.36b90504c20746f464ef.png",
     "static/media/Screenshot4.png": "/Vigneshkumar-Portfolio/static/media/Screenshot4.45b209ede4709a546eb5.png",
     "static/media/Screenshot1.png": "/Vigneshkumar-Portfolio/static/media/Screenshot1.4ad1ddadced902b1e2a9.png",
     "static/media/GymSite.png": "/Vigneshkumar-Portfolio/static/media/GymSite.7ff45197bda1fb0565ce.png",
+    "static/media/avatar.png": "/Vigneshkumar-Portfolio/static/media/avatar.ceef04522eb64de21ac7.png",
+    "static/media/AvatarFull.png": "/Vigneshkumar-Portfolio/static/media/AvatarFull.555c4114ce1e49632a5c.png",
     "static/media/Screenshot2.png": "/Vigneshkumar-Portfolio/static/media/Screenshot2.24e25967968106c62978.png",
     "static/media/NPM.png": "/Vigneshkumar-Portfolio/static/media/NPM.9a56500d9386e1cb08cd.png",
     "static/media/Screenshot3.png": "/Vigneshkumar-Portfolio/static/media/Screenshot3.0f25edd0047e068e36e1.png",
@@ -16,11 +16,11 @@
     "static/media/Housing.png": "/Vigneshkumar-Portfolio/static/media/Housing.d19b2c98e7c1957817de.png",
     "static/media/Arrow.png": "/Vigneshkumar-Portfolio/static/media/Arrow.df179b4613b2ad3a557c.png",
     "index.html": "/Vigneshkumar-Portfolio/index.html",
-    "main.8d87bf90.css.map": "/Vigneshkumar-Portfolio/static/css/main.8d87bf90.css.map",
-    "main.07d090a4.js.map": "/Vigneshkumar-Portfolio/static/js/main.07d090a4.js.map"
+    "main.40ab97dc.css.map": "/Vigneshkumar-Portfolio/static/css/main.40ab97dc.css.map",
+    "main.33c18886.js.map": "/Vigneshkumar-Portfolio/static/js/main.33c18886.js.map"
   },
   "entrypoints": [
-    "static/css/main.8d87bf90.css",
-    "static/js/main.07d090a4.js"
+    "static/css/main.40ab97dc.css",
+    "static/js/main.33c18886.js"
   ]
 }
