@@ -1,4 +1,4 @@
-{ 
+{
   "homepage": "https://vigneshkumarm2002.github.io/Vigneshkumar-Portfolio",
   "name": "portfolio",
   "version": "0.1.0",
@@ -11,14 +11,15 @@
     "pages": "^0.0.16",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-lazy-load-image-component": "^1.6.0",
     "react-scripts": "5.0.1",
     "react-scroll": "^1.8.9",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"

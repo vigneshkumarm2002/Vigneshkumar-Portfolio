@@ -2,6 +2,7 @@ import React,{useState,useEffect,useCallback} from 'react';
 import ResumePDF from "./../assets/Resume.pdf"
 import Avatar from "./../assets/avatar.png"
 
+
 import { Link } from 'react-scroll';
 
 const Nav = () => {
@@ -56,7 +57,7 @@ const Nav = () => {
   
   return (
     <nav className={shownav ? 'active' : 'hidden'}  style={{ backgroundColor: isScrolledUp ? '#0a192f' : 'transparent' }}>
-    <Link to="hero" smooth={true} duration={500} onClick={handleNavItemClick}><img className='avatar' src={Avatar} alt=''/></Link>
+    <Link to="hero" smooth={true} duration={500} onClick={handleNavItemClick}><img className='avatar' src={Avatar} alt=''  loading="eager" /></Link>
     <div className={`navItems   ${isActive ? 'navsVisible' : ''}` }>
       <li>  <Link to="about" smooth={true} duration={500} onClick={handleNavItemClick}>About</Link></li>
       <li> <Link to="experience" smooth={true} duration={500} onClick={handleNavItemClick}>Experience</Link></li>
