@@ -8,6 +8,22 @@
         "Image": "Screenshot1.png"
         },
         {
+            "Title": "Trippy",
+            "Description": "Trippy is a trip planner web app that allows users to plan their trips, manage activities for each trip, and provides the ability to delete and update trips and activities.",
+            "Skills": ["React", "CSS", "JavaScript", "Styled Components"],
+            "Code": "https://github.com/vigneshkumarm2002/trippy",
+            "Website": "https://trippy-travel-planner.netlify.app/",
+            "Image": "Screenshot5.png"
+        },
+        {
+            "Title": "Weathery",
+            "Description": "The Weather Website provides real-time weather data, including geolocation-based information, city-specific searches, hourly forecasts, and a range of other features.",
+            "Skills": ["React", "CSS", "JavaScript","ChartJS","API"],
+            "Code": "https://github.com/vigneshkumarm2002/weather-dashboard",
+            "Website": "https://vigneshkumarm2002.github.io/weather-dashboard/",
+            "Image": "Screenshot4.png"
+        } ,
+        {
         "Title": "IngredientsHere.com",
         "Description": "A calorie-focused website where users can search for recipes and discover their ingredients, view their corresponding calorie counts, and conveniently filter recipes based on desired calorie ranges.",
         "Skills": ["React", "CSS", "JavaScript", "API"],
@@ -22,13 +38,6 @@
         "Code": "https://github.com/vigneshkumarm2002/Board-Charts",
         "Website": "https://vigneshkumarm2002.github.io/Board-Charts/",
         "Image": "Screenshot3.png"
-        },
-        {
-        "Title": "Weather Web App",
-        "Description": "Weather website that enables users to easily access weather details for any city worldwide. Also find other details like sunrise time, wind speed, humidity, and more.",
-        "Skills": ["HTML", "CSS", "JavaScript", "API"],
-        "Code": "https://github.com/vigneshkumarm2002/weather-app",
-        "Website": "https://vigneshkumarm2002.github.io/weather-app/",
-        "Image": "Screenshot4.png"
-        }      
+        }
+             
 ]

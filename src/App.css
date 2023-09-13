@@ -299,6 +299,10 @@ nav {
 
   }
 
+  .socialIcons::after {
+    display: none;
+  }
+
   .sectionHead {
     padding: 80px 40px;
   }
