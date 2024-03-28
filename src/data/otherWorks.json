@@ -8,6 +8,14 @@
         "Image": "LosAngeles.png"
     },
     {
+        "Title": "IngredientsHere.com",
+        "Description": "A website dedicated to calories, enabling users to search for recipes, discover ingredients, and easily filter by desired calorie ranges",
+        "Skills": ["React", "CSS", "JavaScript", "API"],
+        "Code": "https://github.com/vigneshkumarm2002/ingredientsHere",
+        "Website": "https://vigneshkumarm2002.github.io/ingredientsHere/",
+        "Image": "Screenshot2.png"
+        },
+    {
         "Title": "Click Hit",
         "Description": "The interactive website where users can click on a circle to launch arrows and hit them.",
         "Skills": ["HTML", "CSS", "JavaScript", "Canvas"],
@@ -38,13 +46,6 @@
         "Code": "https://github.com/vigneshkumarm2002/Drawing-Board",
         "Website": "https://vigneshkumarm2002.github.io/Drawing-Board/",
         "Image": "DrawBoard.png"
-    },
-    {
-        "Title": "NPM Site",
-        "Description": "A simple responsive static site for digital marketting company.",
-        "Skills": ["HTML","CSS"],
-        "Code": "https://github.com/vigneshkumarm2002/NPM-Landing-Page",
-        "Website": "https://vigneshkumarm2002.github.io/NPM-Landing-Page/",
-        "Image": "NPM.png"
     }
 ]
+

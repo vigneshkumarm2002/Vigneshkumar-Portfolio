@@ -7,6 +7,7 @@
 }
 html{
   overflow-x: hidden;
+
 }
 body {
   margin: 0;
@@ -18,6 +19,7 @@ body {
   background-color:#0a192f;
   -webkit-tap-highlight-color: transparent;
   overflow-x: hidden;
+  
 
 }
 

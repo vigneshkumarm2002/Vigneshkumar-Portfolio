@@ -1,12 +1,5 @@
 [
-    {
-        "Title": "Morden Decors",
-        "Description": "An aesthetically pleasing and highly responsive website for an interior design shop.",
-        "Skills": ["HTML", "CSS", "Tailwind CSS", "JavaScript"],
-        "Code": "https://github.com/vigneshkumarm2002/Morden-Decors",
-        "Website": "https://vigneshkumarm2002.github.io/Morden-Decors/src/",
-        "Image": "Screenshot1.png"
-        },
+  
         {
             "Title": "Trippy",
             "Description": "Trippy is a trip planner web app that allows users to plan their trips, manage activities for each trip, and provides the ability to delete and update trips and activities.",
@@ -16,6 +9,22 @@
             "Image": "Screenshot5.png"
         },
         {
+            "Title": "Cash Sync",
+            "Description": "CashSync is an expense tracker website that allows user to manage their expenses, add new expenses, delete them, and filter expenses by text and date.",
+            "Skills": ["React", "Tailwind CSS", "JavaScript"],
+            "Code": "https://github.com/vigneshkumarm2002/CashSync",
+            "Website": "https://cash-sync.netlify.app/",
+            "Image": "Screenshot6.png"
+        },
+        {
+            "Title": "Morden Decors",
+            "Description": "An aesthetically pleasing and highly responsive website for an interior design shop.",
+            "Skills": ["HTML", "CSS", "Tailwind CSS", "JavaScript"],
+            "Code": "https://github.com/vigneshkumarm2002/Morden-Decors",
+            "Website": "https://vigneshkumarm2002.github.io/Morden-Decors/src/",
+            "Image": "Screenshot1.png"
+            },
+        {
             "Title": "Weathery",
             "Description": "The Weather Website provides real-time weather data, including geolocation-based information, city-specific searches, hourly forecasts, and a range of other features.",
             "Skills": ["React", "CSS", "JavaScript","ChartJS","API"],
@@ -23,14 +32,7 @@
             "Website": "https://vigneshkumarm2002.github.io/weather-dashboard/",
             "Image": "Screenshot4.png"
         } ,
-        {
-        "Title": "IngredientsHere.com",
-        "Description": "A calorie-focused website where users can search for recipes and discover their ingredients, view their corresponding calorie counts, and conveniently filter recipes based on desired calorie ranges.",
-        "Skills": ["React", "CSS", "JavaScript", "API"],
-        "Code": "https://github.com/vigneshkumarm2002/ingredientsHere",
-        "Website": "https://vigneshkumarm2002.github.io/ingredientsHere/",
-        "Image": "Screenshot2.png"
-        },
+   
         {
         "Title": "Board.",
         "Description": "A highly responsive authentication page and a dynamic dashboard page, enriched with interactive charts for data visualization and analysis.",

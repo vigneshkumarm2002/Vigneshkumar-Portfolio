@@ -95,6 +95,7 @@
 .avatar{
   width: 60px;
   height: auto;
+  cursor: pointer;
 }
 
 nav {

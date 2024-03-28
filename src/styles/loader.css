@@ -35,6 +35,23 @@
     background-size: contain; 
   }
 
+
+  #load {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: #64ffda; /* Semi-transparent white background */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    z-index: 9999; /* Ensure the loader is on top */
+  }
+
+
+
   @keyframes rotate {
     0% {
       transform: rotate(0deg);

@@ -2,8 +2,8 @@ import React from 'react';
 import "./../styles/about.css";
 
 const About = () => {
-  const skills = ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Figma', 'Responsive Design', 'Python', 'Tailwind CSS',];
-  const basics = ['Node.js', 'Express', 'MongoDB','Git', 'Material-UI', 'Bootstrap', ];
+  const skills = ['HTML', 'CSS', 'JavaScript', 'ReactJS','Tailwind CSS',"NextJS",'Git', 'Responsive Design','Figma', 'Python' ,];
+  const basics = ['Node.js', 'Express', 'MongoDB','Material-UI', 'Bootstrap', ];
   return (
     <section id='about' className='aboutSection sectionHead'>
       <div className='aboutContainer'>
