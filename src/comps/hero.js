@@ -13,7 +13,7 @@ const Hero = () => {
       <section className='heroContent'>
         <div>
           <h1>I'm <span style={{ whiteSpace: "nowrap" }}>Vigneshkumar M.</span></h1>
-          <p>A frontend web developer specializing in building highly responsive frontend applications. I have 1 year of experience through internships and freelance project and demonstrating history of building multiple websites. Currently, I’m looking for a full time role to further enhance my skills and contribute to a professional team.</p>
+          <p>A frontend web developer specializing in building highly responsive frontend applications. I have a year of experience through internships and freelance project and demonstrating history of building multiple websites. Currently, I’m looking for a full time role to further enhance my skills and contribute to a professional team.</p>
         </div>    <Link to="works" smooth={true} duration={500}><button className="button checkout">Checkout my Works</button></Link>
       </section>
 

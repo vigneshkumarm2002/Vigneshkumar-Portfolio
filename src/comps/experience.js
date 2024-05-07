@@ -16,16 +16,20 @@ const Experience = () => {
           </div>
          <div className='dateLocation'>
            <p className='jobLocation'>Bengaluru</p>
-          <p>October 2023 - Present</p>
+          <p>October 2023 - April 2024</p>
          
           </div>
           <ul>
-            <li>Created reusable components for a component library to ensure consistency and optimize development processes.
-            </li>
-            <li>Developed the entire <span className='hyperLink'> <a href="https://vegafly.com/" target='_blank'> vegafly.com </a></span> website to effectively showcase the product, and integrated the SEO checker tool as a feature within the website.
+            <li>Worked on UI enhancements for the <b>SaaS products</b>, seamlessly integrated <b>Rest API's</b> and
+developed <b>new features</b> to optimize user experience and functionality.
 
             </li>
-            <li>Worked on UI enhancements for the products and also developed new features within them.
+            <li>Developed the entire <span className='hyperLink'> <a href="https://vegafly.com/" target='_blank'> vegafly.com </a></span> website to effectively showcase the product, and integrated the <b>SEO checker tool</b> as a feature within the website.
+
+            </li>
+            <li>Created <b> reusable components</b>  for a component library called <b>Storybook</b> to ensure
+consistency and optimize development processes.
+
             </li>
             <li>Tech Stack - React, NextJS, TailwindCSS, Git, Directus CMS</li>
           </ul>
@@ -38,14 +42,14 @@ const Experience = () => {
           </div>
           <div className='dateLocation'>
           <p className='jobLocation'> Remote</p>
-          <p>May - June 2023</p>
+          <p>June - September 2023</p>
           
           </div>
           
           <ul>
-            <li>Developed a complete website for <span className='hyperLink'><a href="https://darlinsproduction.in/" target='_blank'>Darlins Production</a></span> a modelling agency in Tamilnadu.
+            <li>Developed a complete website for <span className='hyperLink'><a href="https://darlinsproduction.in/" target='_blank'>Darlins Production</a></span> a <b>leading modelling agency</b>  in Tamilnadu.
             </li>
-            <li>Worked on conducting research and designing the website, and sourcing suitable photos to enhance its visual appeal.
+            <li>Additionally, contributed to the development of their partner's website.
             </li>
             <li>Managed all aspects independently from start to finish.
             </li>
@@ -67,14 +71,14 @@ const Experience = () => {
     
      
           <ul>
-            <li>Worked on developing a highly responsive UI for the digital credential management platform.
+            <li>Developed a highly <b>responsive UI</b> for a <b>digital credential management</b> platform,
+focusing on optimal user experience across devices, and integrated <b>REST APIs</b> to display
+credential details within the UI.
+
             </li>
-            <li>Worked closely with designers to translate mockups and wireframes into pixel-perfect
-              UI components.
+            <li><b>Automated</b> google sheets into documents and certificates using <b>Appscript</b>.
             </li>
-            <li>Automated google sheets into documents and certificates using Appscript.
-            </li>
-            <li>Tech Stack - JavaScript, CSS, Responsive design, AppScript</li>
+            <li>Tech Stack - React,AppScript,JavaScript, CSS, HTML, Responsive design, </li>
           </ul>
         </div>
       
