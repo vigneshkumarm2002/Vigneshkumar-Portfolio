@@ -12,7 +12,7 @@ const Experience = () => {
               <h4>Frontend Developer</h4>
               <h5>
                 <a
-                  href="https://www.linkedin.com/company/greatify/"
+                  href="https://www.linkedin.com/company/greatifyhq/"
                   target="_blank"
                 >
                   @Greatify
