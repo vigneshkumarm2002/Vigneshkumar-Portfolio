@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 import "./App.css";
 import "./styles/bgAnimation.css";
 import "./styles/menu.css";
