@@ -24,7 +24,7 @@ const Contact = () => {
           <a href="https://www.instagram.com/vixkxx.___/" rel="noreferrer" target="_blank"> <svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#8892b0" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="feather feather-instagram"><title>Instagram</title><rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line></svg> </a>
         </li>
       </ul>
-      <p className='copyRight'>&#169; Copyright 2024. Developed by <span><a href="https://www.linkedin.com/in/vigneshkumarm20/" rel="noopener noreferrer" target="_blank" >Vigneshkumar M.</a></span></p>
+      <p className='copyRight'>&#169; Copyright {new Date().getFullYear()}. Developed by <span><a href="https://www.linkedin.com/in/vigneshkumarm20/" rel="noopener noreferrer" target="_blank" >Vigneshkumar M.</a></span></p>
       </div>
     </section>
   )

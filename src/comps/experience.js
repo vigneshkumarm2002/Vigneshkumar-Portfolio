@@ -46,6 +46,7 @@ const Experience = () => {
                 <a
                   href="https://www.linkedin.com/company/peerxp/"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   @PeerXP® | VegaStack
                 </a>
@@ -66,7 +67,7 @@ const Experience = () => {
                 Developed the entire{" "}
                 <span className="hyperLink">
                   {" "}
-                  <a href="https://vegafly.com/" target="_blank">
+                  <a href="https://vegafly.com/" target="_blank" rel="noreferrer">
                     {" "}
                     vegafly.com{" "}
                   </a>
@@ -90,7 +91,7 @@ const Experience = () => {
               <h4>Freelance Web Developer</h4>
 
               <h5>
-                <a href="https://darlinsproduction.in/" target="_blank">
+                <a href="https://darlinsproduction.in/" target="_blank" rel="noreferrer">
                   @Darlins Production
                 </a>
               </h5>
@@ -104,7 +105,7 @@ const Experience = () => {
               <li>
                 Developed a complete website for{" "}
                 <span className="hyperLink">
-                  <a href="https://darlinsproduction.in/" target="_blank">
+                  <a href="https://darlinsproduction.in/" target="_blank" rel="noreferrer">
                     Darlins Production
                   </a>
                 </span>{" "}
@@ -128,6 +129,7 @@ const Experience = () => {
                 <a
                   href="https://www.linkedin.com/company/careteam-private-limited/"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   @CareTeam Pvt Ltd.
                 </a>

@@ -61,8 +61,9 @@ const Nav = () => {
     <div className={`navItems   ${isActive ? 'navsVisible' : ''}` }>
       <li>  <Link to="about" smooth={true} duration={500} onClick={handleNavItemClick}>About</Link></li>
       <li> <Link to="experience" smooth={true} duration={500} onClick={handleNavItemClick}>Experience</Link></li>
-      <li> <Link to="works" smooth={true} duration={500} onClick={handleNavItemClick}>Works</Link></li>
       <li> <Link to="freelance" smooth={true} duration={500} onClick={handleNavItemClick}>Freelance</Link></li>
+      <li> <Link to="works" smooth={true} duration={500} onClick={handleNavItemClick}>Works</Link></li>
+
       <li> <Link to="contact" smooth={true} duration={500} onClick={handleNavItemClick}>Contact</Link></li>
       <a href={ResumePDF} rel="noreferrer" target="_blank" onClick={handleNavItemClick}><button className="button resume-btn">Resume</button></a>
     </div>
