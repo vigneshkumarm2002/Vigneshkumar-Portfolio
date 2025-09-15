@@ -6,7 +6,7 @@ import Hero from "./comps/hero";
 import About from "./comps/about";
 import Experience from "./comps/experience";
 import Works from "./comps/works";
-import OtherWorks from "./comps/otherWorks";
+import Freelance from "./comps/freelance";
 import Contact from "./comps/contact";
 import Loader from "./comps/loader";
 
@@ -30,8 +30,9 @@ function App() {
           <Hero />
           <About />
           <Experience />
+          <Freelance />
           <Works />
-          <OtherWorks />
+  
           <Contact />
         </div>
       </>

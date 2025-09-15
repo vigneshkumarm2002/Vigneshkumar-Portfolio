@@ -7,7 +7,7 @@ const Contact = () => {
       <div className='contactContainer'>
         <div>
           <h1>Reach Out to Me</h1>
-          <p>I am currently looking for new opportunities and welcome job offers! If any feedback, queries, or simply want to say hi, please feel free to reach out to me. My inbox is always open, and I will respond as soon as possible.</p>
+          <p>Got an exciting project idea? Want to collaborate on something cool? Or just want to chat about tech? I'd love to hear from you! Whether it's a startup idea, a side project, or just a friendly hello - my inbox is always open and I'll get back to you ASAP!</p>
         </div>
         <a className="button checkout" href="mailto:vigneshkumarm2002@gmail.com" >Send Message</a>
       </div>

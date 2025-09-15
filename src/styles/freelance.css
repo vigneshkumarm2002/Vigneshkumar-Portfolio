@@ -1,0 +1,139 @@
+.freelance {
+    min-height: 100vh;
+    padding: 80px 0;
+}
+
+.freelanceContainer {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 50px;
+}
+
+.freelance h1 {
+    font-size: clamp(40px, 8vw, 80px);
+    color: #ccd6f6;
+    margin-bottom: 10px;
+}
+
+.fullContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 100px 0;
+    gap: 50px;
+}
+
+.fullContainer:nth-child(even) {
+    flex-direction: row-reverse;
+}
+
+.freelanceContent {
+    flex: 1;
+    max-width: 500px;
+}
+
+.freelanceContent h3 {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+.freelanceContent h3 a {
+    color: #ccd6f6;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.freelanceContent h3 a:hover {
+    color: #64ffda;
+}
+
+.projectType {
+    color: #64ffda !important;
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.freelanceContent p {
+    color: #8892b0;
+    line-height: 1.6;
+    margin-bottom: 25px;
+}
+
+.freelanceIcons {
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.freelanceIcons a {
+    color: #8892b0;
+    transition: all 0.3s ease;
+}
+
+.freelanceIcons a:hover {
+    color: #64ffda;
+    transform: translateY(-3px);
+}
+
+.freelanceIcons svg {
+    width: 22px;
+    height: 22px;
+}
+
+.imgContainer {
+    flex: 1;
+    max-width: 500px;
+}
+
+.imgContainer img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 0 10px 30px -15px rgba(2, 12, 27, 0.7);
+    transition: all 0.3s ease;
+}
+
+.imgContainer a:hover img {
+    transform: translateY(-5px);
+    box-shadow: 0 20px 40px -15px rgba(2, 12, 27, 0.8);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .freelanceContainer {
+        padding: 0 25px;
+    }
+    
+    .fullContainer {
+        flex-direction: column !important;
+        margin: 50px 0;
+        gap: 30px;
+    }
+    
+    .freelanceContent {
+        max-width: 100%;
+        text-align: center;
+    }
+    
+    .imgContainer {
+        max-width: 100%;
+    }
+}
+
+@media (max-width: 480px) {
+    .freelance {
+        padding: 60px 0;
+    }
+    
+    .freelance h1 {
+        font-size: 35px;
+    }
+    
+    .freelanceContent h3 {
+        font-size: 22px;
+    }
+}

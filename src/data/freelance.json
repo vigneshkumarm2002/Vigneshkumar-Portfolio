@@ -1,0 +1,45 @@
+[
+    {
+        "name": "Darlins Production",
+        "description": "Leading modeling agency in Tamil Nadu breaking stereotypes in fashion",
+        "type": "Modeling Agency",
+        "websites": "https://darlinsproduction.in/",
+        "image": "freelance/darlins.png"
+    },
+    {
+        "name": "Healing Crystals",
+        "description": "E-commerce platform for crystal healing and spiritual wellness products",
+        "type": "Wellness Store",
+        "websites": "https://healing-crystals.vercel.app/",
+        "image": "freelance/healing-crystal.png"
+    },
+    {
+        "name": "Elevatify",
+        "description": "Digital platform for business elevation and growth solutions",
+        "type": "Business Platform",
+        "websites": "https://www.elevateify.com/",
+        "image": "freelance/Elevatify.png"
+    },
+    {
+        "name": "Anantaa Foundation",
+        "description": "NGO focused on social unity, youth development, and community service",
+        "type": "Non-Profit Organization",
+        "websites": "https://anantaafoundation.org/",
+        "image": "freelance/anantaa.png"
+    },
+    {
+        "name": "Teakwood Factory",
+        "description": "Premium teak furniture with contemporary Indian design.",
+        "type": "Furniture Manufacturing",
+        "websites": "https://www.teakwoodfactory.com/",
+        "image": "freelance/Teakwood.png"
+    },
+    {
+        "name": "Luxzara",
+        "description": "Luxury lifestyle and fashion brand offering premium products",
+        "type": "Luxury Brand",
+        "websites": "https://www.luxzara.in/",
+        "image": "freelance/Luxzara.png"
+    }
+
+]

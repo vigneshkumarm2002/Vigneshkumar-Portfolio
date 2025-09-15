@@ -9,10 +9,13 @@ const About = () => {
     "ReactJS",
     "Tailwind CSS",
     "NextJS",
+    "TypeScript",
     "Git",
     "Responsive Design",
     "Figma",
     "Python",
+    "Claude Code",
+    "Cursor AI",
   ];
   const basics = ["Node.js", "Express", "MongoDB", "Material-UI", "Bootstrap"];
   return (

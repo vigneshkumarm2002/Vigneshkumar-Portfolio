@@ -12,8 +12,9 @@ const Experience = () => {
               <h4>Frontend Developer</h4>
               <h5>
                 <a
-                  href="https://www.linkedin.com/company/greatifyhq/"
+                  href="https://www.greatify.ai/"
                   target="_blank"
+                  rel="noopener noreferrer"
                 >
                   @Greatify
                 </a>
@@ -25,26 +26,15 @@ const Experience = () => {
             </div>
             <ul>
               <li>
-                Converted <b>Figma designs</b> into pixel-perfect, responsive
-                code, ensuring consistency across various devices and platforms.
+                Working on the <b>ExamX</b> platform, driving the development of <b>AI-powered evaluation systems</b>, <b>annotation-based assessments</b>, and intelligent tools for <b>question paper creation</b> and <b>question bank generation</b>.
               </li>
               <li>
-                Created <b>reusable and dynamic components</b> to streamline
-                development and enhance maintainability.
+                Designed and implemented multiple <b>AI-driven features</b> including smart grading engines, conversational educational chatbots, and <b>dynamic dashboards</b> with interactive data visualizations and in-depth analytics.
               </li>
               <li>
-                Integrated <b>APIs</b> to enable real-time data interactions and
-                seamless user experiences.
+                Built several <b>MVPs and POCs</b> such as AI interview platforms, <b>RAG-based chatbots</b> (using Supabase for retrieval). Leveraged <b>Claude Code</b> and <b>Cursor AI</b> to accelerate prototyping and development cycles.
               </li>
-              <li>
-                Implemented <b>graphs</b> for visualizing various data reports
-              </li>
-              <li>
-                Conducted <b>R&D</b> and proof of concept (<b>POC</b>)
-                development for new features to improve product functionality
-                and user experience.
-              </li>
-              <li>Tech Stack - React, NextJS, TailwindCSS, Git</li>
+              <li>Tech Stack - React, NextJS, TailwindCSS, TypeScript, AI Tools (Claude, Cursor), ChartJS, Git</li>
             </ul>
           </div>
 

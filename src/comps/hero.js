@@ -14,16 +14,14 @@ const Hero = () => {
           </h1>
           <p>
             {" "}
-            A frontend web developer specializing in building highly responsive
-            frontend applications and currently expanding my skills in backend
-            development too. I have 1.5 years of experience and a proven track
-            record of working on multiple projects. Currently, I’m looking for a
-            full-time role to bring my skills to new challenges and teams.
+            A web developer with 2.5 years of hands-on experience who loves turning ideas into reality. Currently working at <a href="https://www.greatify.ai/" target="_blank" rel="noopener noreferrer" style={{color: '#64ffda', textDecoration: 'none', fontWeight:500}}>@Greatify</a>, I build sleek, responsive applications and enjoy exploring the latest tech trends. Whether it's a cool side project or an innovative startup idea, I'm always excited to collaborate and create something amazing together!
           </p>
         </div>{" "}
-        <Link to="works" smooth={true} duration={500}>
-          <button className="button checkout">Checkout my Works</button>
-        </Link>
+        <div style={{display: 'flex', gap: '1rem'}}>
+          <Link to="contact" smooth={true} duration={500}>
+            <button className="button checkout">Get in Touch</button>
+          </Link>
+        </div>
       </section>
 
       <ul className="socialIcons">
